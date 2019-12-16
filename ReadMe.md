@@ -7,4 +7,4 @@ This notebook takes outputs from Radiation Solutions Model RS 125 handheld gamma
 1. makes a plot to export to put next to a graphic log of an outcrop
 1. allows export of an LAS file to import into Petrel
 
-## The main file to modify is the `HandheldGammaRayPlotter.ipynb`
+## The main file to modify is `HandheldGammaRayPlotter.ipynb`
