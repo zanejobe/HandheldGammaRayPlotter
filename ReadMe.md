@@ -8,3 +8,5 @@ This notebook takes outputs from Radiation Solutions Model RS 125 handheld gamma
 1. allows export of an LAS file to import into Petrel
 
 ## The main file to modify is `HandheldGammaRayPlotter.ipynb`
+
+A csv example of a data file is provided - "assay_2263_FakeHeights.csv". This is real data from the Cloridorme Formation, Canada.
